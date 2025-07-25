@@ -1,0 +1,18 @@
+{
+  "attendance": [],
+  "settings": {
+    "school_name": "SMA Negeri 1 Jakarta",
+    "academic_year": "2024/2025",
+    "semester": "Ganjil",
+    "attendance_start_time": "07:00",
+    "attendance_end_time": "07:30",
+    "school_start_time": "07:30",
+    "school_end_time": "15:30"
+  },
+  "classes": [
+    {"id": "X-A", "name": "Kelas X-A", "wali_kelas": "Dr. Nabila Sari, S.Pd"},
+    {"id": "XI-A", "name": "Kelas XI-A", "wali_kelas": "Dr. Nabila Sari, S.Pd"},
+    {"id": "XI-B", "name": "Kelas XI-B", "wali_kelas": "Dr. Nabila Sari, S.Pd"},
+    {"id": "XII-A", "name": "Kelas XII-A", "wali_kelas": "Dr. Nabila Sari, S.Pd"}
+  ]
+}
