@@ -1,12 +1,64 @@
-[
-  { "name": "daffa", "password": "daffa123" },
-  { "name": "rafi", "password": "rafi123" },
-  { "name": "nabila", "password": "nabila123" },
-  { "name": "zaki", "password": "zaki123" },
-  { "name": "salsa", "password": "salsa123" },
-  { "name": "fahri", "password": "fahri123" },
-  { "name": "aulia", "password": "aulia123" },
-  { "name": "ilham", "password": "ilham123" },
-  { "name": "dina", "password": "dina123" },
-  { "name": "reza", "password": "reza123" }
-]
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "daffa",
+      "password": "daffa123",
+      "role": "admin",
+      "name": "Daffa Aditya Pratama",
+      "class": "",
+      "nip_nis": "ADM001",
+      "email": "daffa@sekolah.id",
+      "phone": "081234567890",
+      "avatar": "https://ui-avatars.com/api/?name=Daffa+Aditya&background=2563eb&color=fff"
+    },
+    {
+      "id": 2,
+      "username": "rafi",
+      "password": "rafi123",
+      "role": "siswa",
+      "name": "Rafi Ahmad Saputra",
+      "class": "XII-A",
+      "nip_nis": "2021001",
+      "email": "rafi@siswa.sekolah.id",
+      "phone": "081234567891",
+      "avatar": "https://ui-avatars.com/api/?name=Rafi+Ahmad&background=22c55e&color=fff"
+    },
+    {
+      "id": 3,
+      "username": "nabila",
+      "password": "nabila123",
+      "role": "guru",
+      "name": "Dr. Nabila Sari, S.Pd",
+      "class": "",
+      "nip_nis": "GRU001",
+      "email": "nabila@guru.sekolah.id",
+      "phone": "081234567892",
+      "avatar": "https://ui-avatars.com/api/?name=Nabila+Sari&background=f59e0b&color=fff"
+    },
+    {
+      "id": 4,
+      "username": "zaki",
+      "password": "zaki123",
+      "role": "siswa",
+      "name": "Zaki Rahman Hakim",
+      "class": "XI-B",
+      "nip_nis": "2022001",
+      "email": "zaki@siswa.sekolah.id",
+      "phone": "081234567893",
+      "avatar": "https://ui-avatars.com/api/?name=Zaki+Rahman&background=8b5cf6&color=fff"
+    },
+    {
+      "id": 5,
+      "username": "salsa",
+      "password": "salsa123",
+      "role": "siswa",
+      "name": "Salsa Amelia Putri",
+      "class": "XI-A",
+      "nip_nis": "2022002",
+      "email": "salsa@siswa.sekolah.id",
+      "phone": "081234567894",
+      "avatar": "https://ui-avatars.com/api/?name=Salsa+Amelia&background=ef4444&color=fff"
+    }
+  ]
+}
